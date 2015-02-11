@@ -1,5 +1,15 @@
 /* CSS declarations go here */
+ 
+/* Google Font Urls Imported Here */
+ @import url('http://fonts.googleapis.com/css?family=Bad+Script');
+
 
 body{
-	background-color: #b4aaff;
+	background-color: #F1775A;
+}
+
+h1, h2, h3, h4, h5, h6{
+	color: #FFFFFF;
+	font-family: 'Bad Script';
+	font-size: 46px;
 }
